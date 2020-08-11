@@ -10,12 +10,12 @@
 <br />
 
 #### Connect with me:
-[<img src="social_website.svg" width="16" />][website]&nbsp;&nbsp;
-[<img src="social_linkedin.svg" width="16" />][linkedin]&nbsp;&nbsp;
-[<img src="social_github.svg" width="16" />][github]&nbsp;&nbsp;
-[<img src="social_twitter.svg" width="16" />][twitter]&nbsp;&nbsp;
-[<img src="social_instagram.svg" width="16" />][instagram]&nbsp;&nbsp;
-[<img src="social_email.svg" width="16" />][email]&nbsp;&nbsp;
+[<img src="/social_website.svg" width="16" />][website]&nbsp;&nbsp;
+[<img src="/social_linkedin.svg" width="16" />][linkedin]&nbsp;&nbsp;
+[<img src="/social_github.svg" width="16" />][github]&nbsp;&nbsp;
+[<img src="/social_twitter.svg" width="16" />][twitter]&nbsp;&nbsp;
+[<img src="/social_instagram.svg" width="16" />][instagram]&nbsp;&nbsp;
+[<img src="/social_email.svg" width="16" />][email]&nbsp;&nbsp;
 
 <br />
 <br />
