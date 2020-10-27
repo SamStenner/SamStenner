@@ -1,10 +1,15 @@
 ### Hi there, I'm Sam 👋
 
 #### I'm a Full Stack developer focusing on Android development
-- 🔭 I’m currently working on a few exciting Android apps
-- 🌱 I’m currently learning Flutter
+- ✨ I’m currently working on a few exciting Android apps
+- 🦋 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with other Android developers
-- ⚡ Fun fact: I'm an avid gamer🎮, humanist🕊️ and space nerd🌌
+- ⚡ My interests include
+    - 🎮 Gaming
+    - 🕊️ Humanism
+    - 🌌 Space
+    - 📷 Photography
+    - 📱 Smartphones
 <br />
 
 #### Connect with me:
